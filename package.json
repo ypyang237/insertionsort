@@ -1,0 +1,14 @@
+{
+  "name": "insertionsort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insertionSort.spec.js",
+  "directories": {
+    "test":"mocha -R spec --bail --watch "
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
